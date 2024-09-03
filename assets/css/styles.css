@@ -1,0 +1,26 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.dayCard {
+    width: 100%;
+    margin: 10px;
+}
+
+#container {
+    display: inline-block; /* Display the container as an inline-block for tighter fitting */
+    width: auto; /* Let the content dictate the width, making it smaller */
+    max-width: 100px; /* Limit the maximum width of the container */
+    padding: 10px; /* Add padding inside the container for spacing */
+    background-color: #f8f9fa; /* Optional: Change the background color */
+    border-radius: 5px; /* Optional: Add rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a small shadow */
+    margin-top: 20px; /* Add some spacing at the top */
+    text-align: left; /* Align text to the left */
+}
