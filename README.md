@@ -1,7 +1,5 @@
 # Weather Dashboard
 
-![Weather Dashboard]
-
 ## Overview
 
 The **Weather Dashboard** is a web application that allows users to search for a city's weather and view the current weather conditions as well as a 5-day forecast. The dashboard provides a user-friendly interface with real-time weather updates and stores search history locally for easy access to frequently searched cities.
